@@ -1,0 +1,1 @@
+•	Team lead for the construction of an issue tracking system that uses the Restbed Framework, and JSON. Coded the service that reads and writes data to files, and gets the specific data that is needed by the server for the client. Contains documentation for project, and unit testing using Mocks and stubs.
